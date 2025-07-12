@@ -1,0 +1,24 @@
+# Vivado temporary files and build outputs
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.xml
+*.html
+*.backup*
+
+# Cache & build directories
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.webtalk/
+.xpr.cache/
+.xgui/
+.Xil/
+
+# System & OS files
+*.DS_Store
+Thumbs.db
